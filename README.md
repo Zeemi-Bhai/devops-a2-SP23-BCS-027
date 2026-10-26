@@ -12,3 +12,4 @@ A personal portfolio website built using HTML and CSS.
 - HTML and CSS
 - Docker
 - GitHub Actions
+This project demonstrates basic DevOps practices using Git, Docker, and GitHub Actions.
